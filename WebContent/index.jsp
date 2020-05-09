@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>登录测试服</title>
+<title>登录测试服2</title>
 </head>
 <body>
 	<form action="#" method="post">
